@@ -1,0 +1,11 @@
+C:\IRAS\Project\consoledemo\bin\Debug\netcoreapp2.1\consoleDemo.deps.json
+C:\IRAS\Project\consoledemo\bin\Debug\netcoreapp2.1\consoleDemo.runtimeconfig.json
+C:\IRAS\Project\consoledemo\bin\Debug\netcoreapp2.1\consoleDemo.runtimeconfig.dev.json
+C:\IRAS\Project\consoledemo\bin\Debug\netcoreapp2.1\consoleDemo.dll
+C:\IRAS\Project\consoledemo\bin\Debug\netcoreapp2.1\consoleDemo.pdb
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.csprojAssemblyReference.cache
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.csproj.CoreCompileInputs.cache
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.AssemblyInfoInputs.cache
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.AssemblyInfo.cs
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.dll
+C:\IRAS\Project\consoledemo\obj\Debug\netcoreapp2.1\consoleDemo.pdb
